@@ -7,7 +7,7 @@
 ### **نظام إدارة الحسابات المالية والديون الشخصية والتجارية المتكامل**
 **تطبيق أندرويد متطور لإدارة حسابات الديون (لك / عليك)، جدولة الأقساط، طباعة السندات وكشوف الحساب PDF، والإشعار المباشر عبر واتساب وتليجرام.**
 
-[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Ahmed-Alqadi/Hesabaty-App/releases)
+[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Ahmed-Alqadi/Hesabaty-App)
 [![Offline First](https://img.shields.io/badge/Database-Offline--First%20(Hive)-FFA000?style=for-the-badge&logo=hive&logoColor=white)](#)
 [![Cloud Sync](https://img.shields.io/badge/Cloud%20Sync-Supabase%20%26%20Google%20Drive-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](#)
 [![Security](https://img.shields.io/badge/Security-Biometric%20%26%20PIN-E53935?style=for-the-badge&logo=fingerprint&logoColor=white)](#)
@@ -27,15 +27,15 @@
 
 ## 📥 روابط التحميل المباشر (Download APKs)
 
-> **لا حاجة لتحميل كود أو إعداد بيئة برمجية!** التطبيق جاهز ومُترجم بصيغة APK للتثبيت المباشر على هاتفك:
+> **لا حاجة لتحميل كود أو إعداد بيئة برمجية!** التطبيق جاهز ومُترجم بصيغة APK للتثبيت المباشر على هاتفك المحمول بنقرة واحدة:
 
 | النسخة | الحجم | الأجهزة المتوافقة | رابط التحميل المباشر |
 | :--- | :---: | :--- | :---: |
-| 🚀 **نسخة الهواتف الحديثة** (`arm64-v8a`) | **26 MB** | لجميع الهواتف الحديثة (أداء فائق وحجم خفيف جداً) | [📥 **تحميل مباشر (APK)**](https://github.com/Ahmed-Alqadi/Hesabaty-App/releases/download/v1.0.12/Hesabaty-Modern-arm64-v8a.apk) |
-| 📱 **النسخة الشاملة (Universal)** | **70 MB** | تعمل على **كافة** أجهزة وجوالات الأندرويد بلا استثناء | [📥 **تحميل مباشر (APK)**](https://github.com/Ahmed-Alqadi/Hesabaty-App/releases/download/v1.0.12/Hesabaty-Universal-All-Devices.apk) |
-| ⚡ **نسخة الهواتف القديمة** (`armeabi-v7a`) | **24 MB** | مخصصة للأجهزة القديمة والأنظمة السابقة (32-bit) | [📥 **تحميل مباشر (APK)**](https://github.com/Ahmed-Alqadi/Hesabaty-App/releases/download/v1.0.12/Hesabaty-Legacy-armeabi-v7a.apk) |
+| 📱 **النسخة الشاملة (Universal)** | **70 MB** | تعمل على **كافة** أجهزة وجوالات الأندرويد بلا استثناء | [📥 **تحميل مباشر (APK)**](https://github.com/Ahmed-Alqadi/Hesabaty-App/raw/main/APK/Hesabaty-Universal.apk) |
+| 🚀 **نسخة الهواتف الحديثة** (`arm64-v8a`) | **26 MB** | لجميع الهواتف الحديثة (أداء فائق وحجم خفيف جداً) | [📥 **تحميل مباشر (APK)**](https://github.com/Ahmed-Alqadi/Hesabaty-App/raw/main/APK/Hesabaty-Modern-arm64.apk) |
+| ⚡ **نسخة الهواتف القديمة** (`armeabi-v7a`) | **24 MB** | مخصصة للأجهزة القديمة والأنظمة السابقة (32-bit) | [📥 **تحميل مباشر (APK)**](https://github.com/Ahmed-Alqadi/Hesabaty-App/raw/main/APK/Hesabaty-Legacy-armeabi.apk) |
 
-*(إذا كنت غير متأكد من معمارية هاتفك، قم بتحميل **النسخة الشاملة Universal** وستعمل معك فوراً)*.
+*(إذا كنت غير متأكد من نوع ومعمارية هاتفك، قم بتحميل **النسخة الشاملة Universal** وستعمل على جهازك مباشرة)*.
 
 ---
 
@@ -122,10 +122,11 @@
 
 ## 🌐 English Overview
 
-**Hesabaty (My Accounts)** is a comprehensive, offline-first personal & commercial debt manager and ledger ledger mobile app for Android.
+**Hesabaty (My Accounts)** is a comprehensive, offline-first personal & commercial debt manager and ledger mobile app for Android.
 
 ### Key Highlights:
-- **Offline-First & Ultra-Fast:** Built with Flutter and Hive NoSQL, operates without any network connection.
+- **Direct APK Downloads:** Ready-to-install Android packages provided directly in the repository without compiling source code.
+- **Offline-First & Ultra-Fast:** Built with Flutter and Hive NoSQL, operates seamlessly without network connection.
 - **Debts Tracking:** Precise two-way transaction bookkeeping ("I gave / Receivable" and "I received / Payable").
 - **PDF Reports & Receipts:** Generate official accounting statements, receipt vouchers, Arabic text spellout of numbers (Tafqeet), and CSV/Excel exports.
 - **Smart Messaging:** Automated messaging and statements via WhatsApp and Telegram with customizable templates.
